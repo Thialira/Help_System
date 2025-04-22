@@ -5,6 +5,6 @@ Nesta atividade foi proposto um desafio na qual precisávamos criar um fórum on
 Este projeto foi desenvolvido na formação da Specialisterne.
 
 ### Equipe:
-####   - Bruno
-####   - Jamerson
-####   - Thiago
+####    Bruno
+####    Jamerson
+####    Thiago
